@@ -1,0 +1,2 @@
+# Denk
+Sohbet uygulamasi
